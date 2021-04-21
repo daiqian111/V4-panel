@@ -1,4 +1,4 @@
-wget https://try.gogs.io/jd1123/V4-panel/archive/main.tar.gz
+wget https://ghproxy.com/https://github.com/daiqian111/V4-panel/archive/refs/heads/main.zip
 tar -zxvf main.tar.gz
 rm main.tar.gz
 mv V4-panel/panel panel

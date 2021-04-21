@@ -1,5 +1,5 @@
 wget https://ghproxy.com/https://github.com/daiqian111/V4-panel/archive/refs/heads/main.zip
-tar -zxvf main.tar.gz
+tar -zxvf main.zip
 rm main.tar.gz
 mv V4-panel/panel panel
 mv V4-panel/config config
